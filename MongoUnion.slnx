@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MongoUnion.Serialization/MongoUnion.Serialization.csproj" />
+  <Project Path="MongoUnion.Serialization.Tests/MongoUnion.Serialization.Tests.csproj" />
+  <Project Path="MongoUnion.Serialization.IntegrationTests/MongoUnion.Serialization.IntegrationTests.csproj" />
+  <Project Path="MongoUnion.Sample/MongoUnion.Sample.csproj" />
+</Solution>
